@@ -2,8 +2,4 @@
 
 ## Let me go
 
-I wanna Netflix and chill
-
-Mostly just chill
-
-
+SOme new changes to remember how to commit
