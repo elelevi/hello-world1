@@ -2,4 +2,5 @@
 
 ## Let me go
 
-SOme new changes to remember how to commit
+Some new changes to remember how to commit
+Why is it not working?
